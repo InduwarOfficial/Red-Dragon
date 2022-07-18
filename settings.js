@@ -19,23 +19,23 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is RED DRAGON🔥
+global.alivemsg = `My name is 𝙄𝙣𝙙𝙪𝙬𝙖𝙧𝙖 𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡
 My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+380944814219'] //Owner number in aive msg
-global.premium = ['+380944814219'] //Owner Number info
-global.ownernomer = '+380944814219' //Owner Number <<<
+global.owner = ['+94764247716'] //Owner number in aive msg
+global.premium = ['+94764247716'] //Owner Number info
+global.ownernomer = '+94764247716' //Owner Number <<<
 
-global.ownername = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖' //Owner Name
-global.botname = ' ☬RED༒DRAGON࿐' //Bot Name
+global.ownername = '😎𝙄𝙉𝘿𝙐𝙒𝘼𝙍𝘼' //Owner Name
+global.botname = ' ☬𝙄𝙣𝙙𝙪𝙬𝙖𝙧𝙖 𝙒𝙝𝙖𝙩𝙨𝙖𝙥𝙥 𝙐𝙨𝙚𝙧 𝘽𝙤𝙩' //Bot Name
 
 global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
+global.btnurl = 'https://github.com/InduwarOfficial' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
-global.author = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯' //Author Name
+global.packname = '☬𝙄𝙣𝙙𝙪𝙬𝙖𝙧𝙖 𝙒𝙝𝙖𝙩𝙨𝙖𝙥𝙥 𝙐𝙨𝙚𝙧 𝘽𝙤𝙩' //Bot Pacage Name
+global.author = '😎𝙄𝙉𝘿𝙐𝙒𝘼𝙍𝘼❯❯' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
@@ -43,7 +43,7 @@ global.dragonemoji = '🧩' // Menu emoji
 global.footer = '©_Kumuthu.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
-global.ig = 'https://github.com/prabhasha2006' //Github Account!
+global.ig = 'https://github.com/InduwarOfficial' //Github Account!
 
 global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
 	
